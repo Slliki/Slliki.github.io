@@ -5,7 +5,7 @@
 He is currently pursuing a Master's Degree in Data Science at the School of Engineering Mathematics and Technology, University of Bristol, United Kingdom.
 
 #### Email
-yinhaibin_ryan[at]163.com
+yinhaibin_ryan@163.com
 
 #### Education
 M.Sc., Data Science, University of Bristol, 2023—2024 (expected).\
