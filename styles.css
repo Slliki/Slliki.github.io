@@ -28,6 +28,7 @@ h1, h2, h3, p { margin: 0; }
 .skip-link:focus { transform: translateY(0); }
 
 .intro {
+  overflow: clip;
   color: #fffafc;
   background-color: var(--dark);
   background-image:
